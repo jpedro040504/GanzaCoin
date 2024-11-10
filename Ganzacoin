@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GanzaCoin - The Cryptocurrency Revolution</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        header {
+            background-color: #004d99;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            text-align: center;
+        }
+        h1 {
+            color: #004d99;
+        }
+        .button {
+            background-color: #004d99;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+            display: inline-block;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .mascot {
+            width: 200px;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>GanzaCoin</h1>
+        <p>The Cryptocurrency Revolution</p>
+    </header>
+
+    <div class="container">
+        <img src="path/to/your-image-file.webp" alt="GanzaCoin Mascot" class="mascot">
+        
+        <section>
+            <h2>Welcome to GanzaCoin</h2>
+            <p>GanzaCoin is created with the vision of becoming the most trusted and widely adopted digital currency globally. Join us in this financial revolution.</p>
+            <a href="#" class="button">Join Now</a>
+        </section>
+
+        <section>
+            <h2>Why Choose GanzaCoin?</h2>
+            <ul style="text-align: left;">
+                <li>Cutting-edge blockchain technology</li>
+                <li>Guaranteed security and reliability</li>
+                <li>Global support and active community</li>
+            </ul>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 GanzaCoin. All rights reserved.</p>
+    </footer>
+</body>
+</html>
